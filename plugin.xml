@@ -5,6 +5,7 @@
         version="1.0.0">
 
     <name>ImageResizer</name>
+	<description>Image Resizer for Phonegap</description>
 	
 	<license>MIT</license>
     <author>phonostar GmbH</author>
