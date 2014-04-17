@@ -41,7 +41,12 @@
             </feature>
         </config-file>
 
-        <header-file src="src/ios/ImageResize.h" />
-        <source-file src="src/ios/ImageResize.m" />
+         <source-file src="src/ios/ImageResize.m" />
+      <source-file src="src/ios/NSData+Base64.m" />
+      <source-file src="src/ios/UIImage+Scale.m" />
+      
+      <header-file src="src/ios/ImageResize.h" />
+      <header-file src="src/ios/NSData+Base64.h" />
+      <header-file src="src/ios/UIImage+Scale.h" />
     </platform>
 </plugin>
